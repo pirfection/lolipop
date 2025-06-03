@@ -6,3 +6,6 @@ for i in range(5):
             print('Привет')
             for l in range(5):
                 print('Привет')
+
+
+    'foekfoekfoeqfkoewfkiow'
